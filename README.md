@@ -9,4 +9,3 @@ My boss from the IT company i work for put some JS in the code, but it was just 
 
 I have tested the website on the desktop, several different smartphones and a tablet. I showed the website to friends and family and ask them to use and try it.
 
-this is a test
