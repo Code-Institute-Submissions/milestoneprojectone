@@ -33,3 +33,12 @@ My own further styling has been done within css/styles.css
 The project has been written in cloud9 and committed to git at each stage of functionality.
 
 The site is now live at https://codingbas.github.io
+
+NOTE:
+after reviewing from my mentor I had to:
+- add a contact formgit
+- add another section like equipment
+- more structured Readme
+- push all the changes into GitHub
+
+It has all been done and now starting my seconde Milestone Project. 
