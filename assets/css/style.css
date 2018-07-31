@@ -68,16 +68,16 @@ body {
 }
 
 .nav-masthead .nav-link {
-  padding: 0.25rem 0;
-  font-weight: 700;
-  color: rgba(255, 255, 255, 0.5);
+  padding: 0.5rem;
+  font-weight: 800;
+  color: Silver;
   background-color: transparent;
-  border-bottom: 0.25rem solid transparent;
+ 
 }
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, 0.25);
+  color: White;
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -247,6 +247,10 @@ div, body{
   text-align: center;
 }
 
+.h3 {
+  text-align: center;
+}
+
 /*--------------------------------------------Contact*/
 
 .contact-heading {
@@ -263,9 +267,9 @@ div, body{
     max-width: 70%;
 }
 
-button[type="submit"] {
+.button {
     margin-top: 15px;
     margin-bottom: 20px;
-    background-color: #e84610;
+     background-color: #e84610;
     color: #fafafa;
 }
