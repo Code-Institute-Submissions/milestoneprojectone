@@ -41,4 +41,14 @@ after reviewing from my mentor I had to:
 - more structured Readme
 - push all the changes into GitHub
 
-It has all been done and now starting my seconde Milestone Project. 
+Changes ( as you can see in the new github push)
+- removed leading slash images
+- nav-link active into nav-link
+- font-weight 700 into 800
+- color to Silver / nav  link
+- removed border-bottom: 0.25rem solid transparant
+- hover/focus nav-link into color white
+- add project.html
+- linked the projectbutton to project.html
+- made home button in project.html to return to home page
+- 
